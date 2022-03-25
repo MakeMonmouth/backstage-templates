@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Backstage Templates
+  name: backstage-templates
   description: The Make Monmouth Backstage Templates
   # Example for optional annotations
   # annotations:
